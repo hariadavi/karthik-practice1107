@@ -8,7 +8,7 @@ evens = [i for i in range(101) if i % 2 == 0]
 print ("list of even numbers: ",evens)
 
 #print odd numbers between 1 - 100
-odds = [i for i in range (101) if i % 2!= 0]
+odds = [i for i in range (200) if i % 2!= 0]#this is range change
 print ("list of odd numbers: ", odds)
 
 #print prime numbers between 1 - 100
